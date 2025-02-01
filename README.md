@@ -1,3 +1,7 @@
+# Live Demo
+
+https://dazzling-croquembouche-1301ad.netlify.app
+
 # Restoran Tanıtım ve Menü Websitesi
 
 Bu proje, restoran tanıtımı ve menü içeriği sunmak için geliştirilmiş bir web sitesidir.
